@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">画面部品サンプル</string>
-    <string name="tv_mag">名前を入力してください。</string>
-    <string name="bt_save">保存</string>
+    <string name="app_name">Screen component sample</string>
+    <string name="tv_mag">Please input name.</string>
+    <string name="bt_save">save</string>
     <string name="cb_drink">drink</string>
     <string name="cb_food">food</string>
+    <string name="rb_male">male</string>
+    <string name="rb_female">female</string>
 </resources>
