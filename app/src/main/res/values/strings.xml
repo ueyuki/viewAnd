@@ -6,7 +6,8 @@
     <string name="cb_food">food</string>
     <string name="rb_male">male</string>
     <string name="rb_female">female</string>
-    <string-array name="sp_currylist">
+
+    <string-array name="sp_curryList">
         <item>Dry curry</item>
         <item>Cutlet curry</item>
         <item>Beef curry</item>
@@ -14,5 +15,15 @@
         <item>Seafood curry</item>
         <item>Keema curry</item>
         <item>Green curry</item>
+    </string-array>
+
+    <string-array name="lv_cocktailList">
+        <item>White Lady</item>
+        <item>Balalaika</item>
+        <item>XYZ</item>
+        <item>New York</item>
+        <item>Manhattan</item>
+        <item>Mississipi Mule</item>
+        <item>Blue Hawaii</item>
     </string-array>
 </resources>
