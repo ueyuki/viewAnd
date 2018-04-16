@@ -6,4 +6,13 @@
     <string name="cb_food">food</string>
     <string name="rb_male">male</string>
     <string name="rb_female">female</string>
+    <string-array name="sp_currylist">
+        <item>Dry curry</item>
+        <item>Cutlet curry</item>
+        <item>Beef curry</item>
+        <item>Chicken curry</item>
+        <item>Seafood curry</item>
+        <item>Keema curry</item>
+        <item>Green curry</item>
+    </string-array>
 </resources>
